@@ -1,3 +1,8 @@
+/*
+Code Author: Anthony Peruzzo, Lisa Wolfson, RJ Goetz, Xianning Cui
+Modified by: Kelly Horigan
+*/
+
 //For readability and clarity it is good practice to declare variables at the beginning of the JS document if possible
 var churchillSpeech = {
       'author': 'Churchill',
